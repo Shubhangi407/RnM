@@ -1,7 +1,7 @@
 # Helper function to format the output to a human readable format.
 def getCurrentTemperature(response):
     # modify this function based on the response
-    ...
+    return 0
 
 def getFeelsLike(response):
     # modify this function based on the response
